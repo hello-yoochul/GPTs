@@ -1,12 +1,13 @@
 - 회사와 관련 있는 GPTs
   - Mission-Critical 시스템 결함 사례 
   - 회사 도구 소개
-  - 더미 데이터 생성기
+  - 더미 데이터 생성기 (외부 API 이용 - [Picsum](https://picsum.photos/))
   - 이클립스 RCP 
   - 국제 표준
   - 코드 리뷰 
   - 경영지원실 
   - 해피 런치 음식점 추천
+  - 자동차 안전 등급 (외부 API 이용 - [NHTSA](https://www.nhtsa.gov/nhtsa-datasets-and-apis))
 - 회사와 관련 없는 GPTs
   - 영어 튜터 (초중급)
   - 영어 튜터 (고급)
@@ -16,6 +17,8 @@
   - 한국 도시 이름 삼행시
   - 이색적인 음식 찾기
   - 영어 끝말잇기
+  - 미국 농담 (외부 API 이용 - [icanhazdadjoke](https://icanhazdadjoke.com/))
+  - 진실 혹은 거짓 (외부 API 이용 - [Trivia](https://opentdb.com/))
 
 
 
@@ -38,6 +41,8 @@
 ## 더미 데이터 생성기
 
 ![image-20240402152547164](./assets/image-20240402152547164.png)
+
+![image-20240423115114838](./assets/image-20240423115114838.png)
 
 
 
@@ -69,9 +74,11 @@ ISO 관련 지식에 대해 나눈 대화
 
 ![image-20240402150524345](./assets/image-20240402150524345.png)
 
+## 자동차 안전 등급
 
+![image-20240423115242476](./assets/image-20240423115242476.png)
 
-
+![image-20240423115302770](./assets/image-20240423115302770.png)
 
 # 회사와 관련 없는 GPTs
 
@@ -115,13 +122,17 @@ ISO 관련 지식에 대해 나눈 대화
 
 ![image-20240402144910395](./assets/image-20240402144910395.png)
 
+## 미국 농담
 
+![image-20240423111638174](./assets/image-20240423111638174.png)
 
+![image-20240423111915645](./assets/image-20240423111915645.png)
 
+## 진실 혹은 거짓
 
+![image-20240423112058741](./assets/image-20240423112058741.png)
 
-
-
+![image-20240423115819356](./assets/image-20240423115819356.png)
 
 
 
